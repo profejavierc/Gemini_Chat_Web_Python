@@ -19,4 +19,6 @@
 - Ahora en el CMD digita PYTHON FILE1.PY y espera que te dé la URL yel puerto que puede ser como: http://127.0.0.1:7860/
 
 -copiala y pegala en el navegador.....listo espera y tu WebCHAT listo- 
+![image](https://github.com/user-attachments/assets/0b0039e5-0b6d-4812-af0c-4a86838fb646)
+
 - 
